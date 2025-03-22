@@ -7,15 +7,15 @@ body {
 .navbar-brand {
     font-size: 1.5rem;
     font-weight: bold;
-    color: white !important;
+    color: rgb(255, 255, 255) !important;
 }
 .container-profile {
     max-width: 600px;
     margin: auto;
-    background: white;
+    background: rgb(118, 126, 139);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 10px rgba(34, 34, 34, 0.1);
     margin-top: 50px;
 }
 .profile-img {
@@ -24,7 +24,7 @@ body {
     border-radius: 70%;
 }
 .footer {
-    background-color: white;
+    background-color: rgb(71, 243, 255);
     padding: 10px;
     text-align: center;
     margin-top: 20px;
